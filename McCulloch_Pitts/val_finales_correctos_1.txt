@@ -1,0 +1,2 @@
+El valor del peso es : -9.00 
+El valor del umbral es : -3.00

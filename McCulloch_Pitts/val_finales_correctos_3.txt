@@ -1,0 +1,9 @@
+El valor del peso es : 2.00 
+El valor del peso es : 2.00 
+El valor del peso es : 2.00 
+El valor del peso es : 4.00 
+El valor del peso es : 2.00 
+El valor del peso es : 5.00 
+El valor del peso es : 3.00 
+El valor del peso es : 9.00 
+El valor del umbral es : 0.00
